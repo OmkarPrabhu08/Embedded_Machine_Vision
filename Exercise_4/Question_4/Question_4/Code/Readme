@@ -1,0 +1,2 @@
+Use g++ -o Skeleton  Skeleton_Improved.cpp `pkg-config opencv --cflags --libs`
+command to generate .o file
