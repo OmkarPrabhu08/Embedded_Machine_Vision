@@ -1,0 +1,19 @@
+Frame number: 1 
+Pedestrian detected at x = 978 and y = 440 
+Number of people in the frame: 1
+Number of people in the frame: 0
+Number of people in the frame: 0
+Frame number: 4 
+Pedestrian detected at x = 0 and y = 414 
+Number of people in the frame: 1
+Number of people in the frame: 0
+Number of people in the frame: 0
+Number of people in the frame: 0
+Frame number: 8 
+Pedestrian detected at x = 1114 and y = 462 
+Frame number: 8 
+Pedestrian detected at x = 0 and y = 246 
+Number of people in the frame: 2
+Number of people in the frame: 0
+Number of people in the frame: 0
+Number of people in the frame: 0

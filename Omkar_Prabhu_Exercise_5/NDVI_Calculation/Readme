@@ -1,0 +1,2 @@
+Use g++ -o Ped  pedestrian.cpp `pkg-config opencv --cflags --libs`
+command instead of make
