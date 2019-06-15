@@ -1,0 +1,5 @@
+Use g++ -o simpler_capture  simpler_capture.cpp `pkg-config opencv --cflags --libs`
+
+command to generate .o file
+Unplug the camera and plug it back in if it says index isn't right 
+Run again or use sudo if it says persmission denied 

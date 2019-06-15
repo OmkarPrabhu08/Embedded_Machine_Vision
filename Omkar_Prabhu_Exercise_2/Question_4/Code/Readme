@@ -1,0 +1,2 @@
+Use g++ -o simpler_capture_edge_analysis  simpler_capture_edge_analysis.cpp `pkg-config opencv --cflags --libs`
+command to generate .o file
